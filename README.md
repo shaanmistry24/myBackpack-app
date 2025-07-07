@@ -1,4 +1,4 @@
-# myBackpack-app
+# myBackpack README
 
 By Stephen Hung, Shaan Mistry, Zhe Wang
 Ruben S. Ayala High School Chapter (Inland Section)
