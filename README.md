@@ -1,9 +1,12 @@
 # myBackpack README
 
-By Stephen Hung, Shaan Mistry, Zhe Wang | 
-Ruben S. Ayala High School Chapter (Inland Section) | 
-Chino Hills, CA | 
-MyBackpack is a mobile application that is compatible across all Android devices. Before logging in to the app, users can create a new account where they provide basic information about themselves including their name, email address, school name, age, username, and password. Once they log in to the app with their new account, users are prompted with a home screen that has icons representing the different sections of the application. These icons give the user the ability to add and then view their awards, extracurricular activities, classes, test scores, volunteer experience, work experience, and clubs. Another feature is that every student can view the portfolio of other students on the app and see how they compare to their peers. If the user ever needs help navigating through, there is an interactive Q&A chatbot, powered by Open AI, that is personalized to answer questions immediately and accurately. This page also includes a bug reporting system that alerts the app developers of any potential issues in the programming of the app.
+By Stephen Hung, Shaan Mistry, Zhe Wang <br/>
+Ruben S. Ayala High School Chapter (Inland Section) <br/>
+Chino Hills, CA <br/>
+MyBackpack is a mobile application that is compatible across all Android devices. Before logging in to the app, users can create a new account where they provide basic information about themselves including their name, email address, school name, age, username, and password. Once they log in to the app with their new account, users are prompted with a home screen that has icons representing the different sections of the application. These icons give the user the ability to add and then view their awards, extracurricular activities, classes, test scores, volunteer experience, work experience, and clubs. Another feature is that every student can view the portfolio of other students on the app and see how they compare to their peers. If the user ever needs help navigating through, there is an interactive Q&A chatbot, powered by Open AI, that is personalized to answer questions immediately and accurately. This page also includes a bug reporting system that alerts the app developers of any potential issues in the programming of the app. <br/>
+
+
+Presentation Link: https://www.canva.com/design/DAF9gI1GGLo/mAmh9fIWcdiUnxOVJQHkHA/edit?utm_content=DAF9gI1GGLo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton <br/>
 
 
 Features
